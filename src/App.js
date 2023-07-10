@@ -18,7 +18,7 @@ function App() {
       }, {
         headers: {
           'Content-Type': 'application/json',
-          'Authorization': 'Bearer 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', // Replace with your actual API key
+          'Authorization': 'Bearer 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', // Replace with your actual API key
         },
       });
 
